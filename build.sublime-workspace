@@ -1,0 +1,443 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Jva",
+				"JavaGreeter"
+			],
+			[
+				"sub",
+				"sub_proj1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"",
+				"View: Toggle Side Bar"
+			],
+			[
+				"toggle",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"m",
+				"View: Toggle Menu"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 132.0,
+		"history":
+		[
+			"cd",
+			"System.exec(\"pwd\")",
+			"system.exec(\"pwd\")",
+			"pwd",
+			"exit()",
+			"System.exec(\"ls\")",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/phoenix/code/java/myBillingApp/src/main/java/BillingService.java",
+		"/home/phoenix/code/java/myBillingApp/.gitignore",
+		"/opt/servers/apache-tomcat-8.5.4/conf/tomcat-users.xml",
+		"/opt/servers/apache-tomcat-8.5.4/conf/server.xml",
+		"/home/phoenix/code/java/todoApp/src/main/groovy/com/example/myapplication/MyApplicationServlet.groovy",
+		"/home/phoenix/code/java/todoApp/src/main/groovy/com/example/myapplication/MyApplicationUI.groovy",
+		"/home/phoenix/code/java/myBillingApp/README.md",
+		"/opt/servers/apache-tomcat-8.5.4/RUNNING.txt",
+		"/home/phoenix/.bashrc",
+		"/home/phoenix/code/javascript/basics/scripts.js",
+		"/home/phoenix/code/java/dependencyInjection/messegeServiceDemo/src/test/java/com/journaldev/java/dependencyinjection/MessageDIApplicationTest.java",
+		"/home/phoenix/code/java/jpaIntro/employeesDemo/src/main/java/Employee.java",
+		"/home/phoenix/code/java/dataStructures/LinkedList.java",
+		"/home/phoenix/code/java/dependencyInjection/messegeServiceDemo/.gitinit",
+		"/home/phoenix/code/groovy/in-action/a",
+		"/home/phoenix/code/innotec/bats/.gitignore",
+		"/home/phoenix/code/groovy/in-action/grapes/grapes.groovy",
+		"/home/phoenix/text/vzap_my-info.txt",
+		"/home/phoenix/text/notes_ooad-course.txt",
+		"/home/phoenix/text/myNotes_ooad.txt",
+		"/home/phoenix/text/reg_ex-notes.txt",
+		"/home/phoenix/text/notes_uml-defs.txt",
+		"/home/phoenix/text/OOAD-notes.txt",
+		"/home/phoenix/text/life-story.txt",
+		"/home/phoenix/text/notes_design-and-analysis.txt",
+		"/home/phoenix/text/star-wars.txt",
+		"/home/phoenix/text/notes_methods.txt",
+		"/home/phoenix/text/presentation-notes.txt",
+		"/home/phoenix/text/OOAD-notes_ii.txt",
+		"/home/phoenix/text/lyrics/back_at_one.txt",
+		"/home/phoenix/text/todo.txt",
+		"/home/phoenix/text/jar_steps.txt",
+		"/home/phoenix/text/testfile.txt",
+		"/home/phoenix/text/javanotes/ch6_gui.txt",
+		"/home/phoenix/text/uml-distilled/notes_c01.txt",
+		"/home/phoenix/text/lyrics/whispering-hope.txt",
+		"/home/phoenix/text/lyrics/whispering-hope_azlyrics.txt",
+		"/home/phoenix/text/lyrics/whispering-hope_metrolyrics.txt",
+		"/home/phoenix/code/groovy/in-action/closures/simple.groovy",
+		"/home/phoenix/code/javascript/basics/index.html",
+		"/home/phoenix/code/groovy/in-action/classes/Book.groovy",
+		"/home/phoenix/code/groovy/in-action/classes/script.groovy",
+		"/home/phoenix/code/groovy/in-action/classes/script2.groovy",
+		"/home/phoenix/code/groovy/in-action/classes/grabs.groovy",
+		"/home/phoenix/code/java/data-structures/linkedList/build.gradle",
+		"/home/phoenix/code/groovy/in-action/file-io/main.groovy",
+		"/home/phoenix/code/groovy/in-action/experimental/brevity.groovy",
+		"/home/phoenix/code/groovy/in-action/hello-world/hello.groovy",
+		"/home/phoenix/code/java/apache-tests/json_parse/resources/output/out.txt",
+		"/home/phoenix/code/groovy/tutorial/file-read-info.groovy",
+		"/home/phoenix/code/groovy/tutorial/file-write-info.groovy",
+		"/home/phoenix/code/groovy/tutorial/PeopleReader.groovy",
+		"/home/phoenix/Downloads/nimbletech/Rules/EAR_CONDITION.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/VERTIGO.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/VARICOSE_VEINS.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/UTI.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/UNRECOGNISED.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/TREATMENT.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/TRAVEL.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/TOP_SURGERIES.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/TOP_MEDICATIONS.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/SURGERIES.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/STOMACH_ULCER.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/SKIN CONDITION.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/SCAN_MALE.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/SCAN_FEMALE.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/SAILING.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/ROUTINE_MEDICAL.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/RHEUMATOID_ARTHRITIS.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/REFLUX.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/RAISED_CHOLESTEROL.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/PURSUITS.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/PULMONARY_EMBOLISM.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/PROTSTATITIS.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/PROSTATIC_ENLARGMENT.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/PNEUMONIA.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/PALPITATIONS.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/OVARIAN_CYST.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/OSTEOPOROSIS.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/OSTEOARTHRITIS.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/OSTEOARTHRITIS_ARTHRITIS.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/NAEVUS.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/MURMUR.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/MOTOR_SPORTS_ROUTER.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/MEDICATION.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/MAMMOGRAM.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/LUNG_FUNCTION.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/LUMPS_GROWTH.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/KIDNEY_STONE.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/IBS.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/HYSTERECTOMY.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/Hypo-thyroidism.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/HYPERTHYROID.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/HOLE_IN_THE_HEART.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/HIATUS_HERNIA.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/HEROIN.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/HEARING_LOSS.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/HEADACHE.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/HAEMORROIDS.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/GOUT.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/GALLSTONES.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/GALLBLADDER_ROUTER.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/FATTY_LIVER.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/EYE_CONDITION.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/EPILEPSY.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/ECSTASY.json",
+		"/home/phoenix/nimbletech/timesheet.json",
+		"/home/phoenix/Downloads/nimbletech/Rules/ Driving Disqualification.json",
+		"/home/phoenix/code/udacity/ud867/1.03-Demo-GroovyFundamentals/my-code/build.gradle",
+		"/home/phoenix/code/udacity/ud867/1.04-Demo-GroovyClosuresAndObjects/my-code/closures.groovy",
+		"/home/phoenix/code/java/apache-tests/email/src/main/java/org/ngam/emailSender/EmailSender.java",
+		"/home/phoenix/code/java/apache-tests/email/EmailSender.java",
+		"/home/phoenix/code/udacity/ud867/1.03-Demo-GroovyFundamentals/build.gradle",
+		"/home/phoenix/code/gradle/buildingAndTestingWithGradle/cha2/helloJava/src/main/java/org/gradle/example/simple/HelloWorld.java",
+		"/home/phoenix/code/udacity/ud867/1.01-Exercise-RunYourFirstTask/build.gradle",
+		"/home/phoenix/.gradle/gradle.properties",
+		"/home/phoenix/code/gradle/buildingAndTestingWithGradle/cha2/helloJava/build.gradle",
+		"/home/phoenix/code/gradle/buildingAndTestingWithGradle/cha2/build.gradle",
+		"/home/phoenix/code/java/sudosol/src/main/java/org/ngam/sudosol/controller/MainClass.java",
+		"/home/phoenix/code/innotec/bats/server/src/main/java/com/innotec/bats/server/control/Server.java",
+		"/home/phoenix/code/innotec/bats/shared/src/main/java/com/innotec/bats/general/Account.java",
+		"/home/phoenix/code/gradle/multiproject/build.gradle",
+		"/home/phoenix/code/gradle/romin/javaprojects/build.gradle",
+		"/home/phoenix/code/gradle/hello/build.gradle",
+		"/home/phoenix/code/gradle/hello/settings.gradle",
+		"/home/phoenix/code/gradle/multiproject/settings.gradle",
+		"/home/phoenix/code/gradle/hello/src/main/java/org/ngam/hello/HelloWorld.java",
+		"/home/phoenix/code/gradle/multiproject/api/build.gradle"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"modified:   ",
+			"node",
+			"cur",
+			"root",
+			"name",
+			"nxt",
+			"getBlanks",
+			"blanks",
+			"\"})",
+			"foo=5\npri",
+			"x",
+			"\"",
+			"dao.get24",
+			";",
+			"result",
+			"retrieveAccountHolderRetrievalByAccountNo",
+			"twitter",
+			"02",
+			"surname",
+			"ATMApplication",
+			"eclipse",
+			"<<<",
+			"<<",
+			"general",
+			"shared",
+			"/",
+			" ",
+			"InternalError",
+			"Bool",
+			"high",
+			"low",
+			" ",
+			"long",
+			"/",
+			"transferIsNotLessThanMinAmount",
+			"getSecondaryAccountNumber",
+			"Transfer",
+			"transferAmount",
+			"MIN_AMOUNT",
+			"SecondaryAccountNumber",
+			"idNumber",
+			"accountHolderId",
+			"<<<<<<< HEAD",
+			"CreditCardAccount",
+			"public CreditCardAccount (String accountNo, double balance, boolean active, double maxWithdrawalPerDay, double maxTransferPerDay) ",
+			"    public CreditCardAccount (String accountNo, double balance, boolean active, double maxWithdrawalPerDay, double maxTransferPerDay) ",
+			"public class CreditCardAccount extends Account ",
+			"package com.innotec.bats.general",
+			"Action",
+			"event",
+			"general",
+			"ActionListener",
+			"getRemainingNoteCount",
+			"licence",
+			"reader",
+			"name",
+			"gender",
+			"displayNameTag",
+			"member",
+			"[",
+			"DEF_",
+			"MAX_TRANSFER_PER_DAY",
+			"MIN_BALANCE",
+			"MAX_WITHDRAWAL_PER_DAY",
+			"minBalance",
+			"tbl",
+			"[a-zA-Z]^CardNo",
+			"^[a-zA-Z]CardNo",
+			"[a-zA-Z]^CardNo",
+			"Cardtbl",
+			"transactiontbl",
+			"currentaccounttbl",
+			"savingsaccounttbl",
+			"creditcardaccounttbl",
+			"atmtbl",
+			"adminCardtbl",
+			"employeetbl",
+			"accountHolderCardtbl",
+			"accountholdertbl",
+			"creditCardCccounts",
+			"transactiontbl",
+			"currentacounttbl",
+			"savingsaccounttbl",
+			"creditcardaccounttbl",
+			"atmtbl",
+			"atmAdmins",
+			"admintbl",
+			"employeetbl",
+			"cardtbl",
+			"accountholdertbl",
+			"BATS_DB",
+			"DAO_Class",
+			"bats_db",
+			"BATS_DB",
+			".ht",
+			"                                                                                                                                  \n    ",
+			"                                              ",
+			"                                ",
+			"                               ",
+			"                              ",
+			" ",
+			"                                                                                                                                                                  \n    ",
+			"readline",
+			"getSize",
+			"/usr/local/gradle-2.14",
+			"System.out.print",
+			"show_help",
+			"for",
+			"//",
+			",	//",
+			" =",
+			"*",
+			" "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"",
+			"cards"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "build.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
