@@ -1,3 +1,5 @@
+package org.ngam.app;
+
 public interface BillingService {
 	/**
 	 * Attempts to charge the order to the credit card. Both successful and
