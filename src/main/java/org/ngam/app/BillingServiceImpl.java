@@ -2,8 +2,8 @@ package org.ngam.app;
 
 public class BillingServiceImpl implements BillingService {
 	public Receipt chargeOrder (PizzaOrder order, CreditCard creditCard) {
-		CreditCardProcessor processor = new PaypalCreditCardProcessor();
-		TransactionLog transLog = new DatabaseTransactionLog();
+		CreditCardProcessor processor = CreditCardProcessorFactory.getInstance();
+		TransactionLog transLog = TransactionLogFactory.getInstance();
 
 		try {
 			ChargeResult result = processor.charge(creditCard, order.getAmount());
